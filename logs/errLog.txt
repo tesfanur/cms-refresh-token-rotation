@@ -1,2 +1,5 @@
 20211221	16:22:16	be44f274-712b-4ed9-ac7e-e2d42374324a	Error: Not allowed by CORS
 20211221	16:22:53	22206f99-6736-45e5-b517-8d9e7696175e	Error: Not allowed by CORS
+20230903	12:12:44	8803d697-856a-4b60-bda7-dc06413c69fe	Error: Not allowed by CORS
+20230903	12:17:59	4db109e5-b416-4e4c-b1b2-6086a23cb560	Error: Not allowed by CORS
+20230903	12:19:22	4b3a261d-44b3-46c5-b0f5-02352c4e42ec	Error: Not allowed by CORS
